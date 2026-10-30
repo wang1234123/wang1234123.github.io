@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+.env
+.env.*
+*.log
+*.aux
+*.out
+node_modules/
